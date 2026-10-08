@@ -1,0 +1,9 @@
+{
+  "k_expand": {
+    "Soft": 1.0,
+    "Fibrous": 1.05,
+    "Calcified": 0.95
+  },
+  "balloon_margin": 3.0,
+  "guidewire_clearance": 0.04
+}
